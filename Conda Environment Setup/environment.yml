@@ -1,0 +1,29 @@
+name: batterySwapAnalysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - geopandas=0.11.1
+  - geopandas-base=0.11.1
+  - jupyterlab
+  - jupyter
+  - keplergl
+  - hvplot
+  - movingpandas
+  - h3-py=3.7.4
+  - h3pandas
+  - osmnx=1.2.2
+  - openpyxl
+  - ipywidgets==7.7.2
+  - nodejs
+  - rasterio
+  - pulp
+  - descartes
+  - rasterstats
+  - streamlit
+  - seaborn
+  - kmodes
+  - ipykernel=6.17.1
+  - xarray
+
