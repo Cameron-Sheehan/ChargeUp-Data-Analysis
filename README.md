@@ -1,4 +1,4 @@
-# ChargeUp-Data-Analysis
+# ChargeUp! Battery Swapping Data Analysis
 
 This repository contains the ChargeUp! project battery swapping data analysis Jupyter Notebooks and resources.
 
