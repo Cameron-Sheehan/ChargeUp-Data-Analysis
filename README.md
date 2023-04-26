@@ -18,7 +18,7 @@ To create an environment from the environemnt.yml file, run the following comman
 
 For more information on managing conda environments, see: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
-Then activate the environment by running:
+Next, activate the environment by running:
 
 `source activate ChargeUp` (Mac OS) or `activate ChargeUp` (Windows)
 
